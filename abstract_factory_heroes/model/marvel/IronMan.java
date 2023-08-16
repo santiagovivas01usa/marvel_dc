@@ -6,7 +6,7 @@ public class IronMan implements RichHero{
 
     @Override
     public void chicanear() {
-        System.out.println("Me llamo Tony Stark y la inteligencia es mi superpoder.");
+        System.out.println("Me llamo Tony Stark y la inteligencia es mi superpoder, prueba.");
     }
     
 }
